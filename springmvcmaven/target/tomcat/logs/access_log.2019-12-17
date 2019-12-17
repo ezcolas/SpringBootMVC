@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [17/Dec/2019:13:25:42 -0600] "GET /springmvcmaven/home HTTP/1.1" 200 9507 http-bio-8080-exec-2 4009
+0:0:0:0:0:0:0:1 - - [17/Dec/2019:13:25:42 -0600] "GET /springmvcmaven/images/employees/JessicaNewton.jpg HTTP/1.1" 200 33119 http-bio-8080-exec-5 121
+0:0:0:0:0:0:0:1 - - [17/Dec/2019:13:25:42 -0600] "GET /springmvcmaven/images/employees/PhiTang.jpg HTTP/1.1" 200 67567 http-bio-8080-exec-6 120
+0:0:0:0:0:0:0:1 - - [17/Dec/2019:13:25:42 -0600] "GET /springmvcmaven/images/employees/MariaSontas.jpg HTTP/1.1" 200 57976 http-bio-8080-exec-7 122
+0:0:0:0:0:0:0:1 - - [17/Dec/2019:13:25:42 -0600] "GET /springmvcmaven/images/hpluslogo.svg HTTP/1.1" 200 3311 http-bio-8080-exec-1 140
+0:0:0:0:0:0:0:1 - - [17/Dec/2019:13:25:42 -0600] "GET /springmvcmaven/images/employees/HenryTwill.jpg HTTP/1.1" 200 59000 http-bio-8080-exec-4 124
+0:0:0:0:0:0:0:1 - - [17/Dec/2019:13:25:42 -0600] "GET /springmvcmaven/css/style.css HTTP/1.1" 200 13561 http-bio-8080-exec-3 139
+0:0:0:0:0:0:0:1 - - [17/Dec/2019:13:25:42 -0600] "GET /springmvcmaven/images/employees/AngelaHaston.jpg HTTP/1.1" 200 65419 http-bio-8080-exec-10 15
+0:0:0:0:0:0:0:1 - - [17/Dec/2019:13:25:42 -0600] "GET /springmvcmaven/images/employees/MichaelLewiston.jpg HTTP/1.1" 200 72804 http-bio-8080-exec-4 11
+0:0:0:0:0:0:0:1 - - [17/Dec/2019:13:25:42 -0600] "GET /springmvcmaven/images/employees/HenryTwill_outline.png HTTP/1.1" 200 506466 http-bio-8080-exec-10 30
+0:0:0:0:0:0:0:1 - - [17/Dec/2019:13:25:42 -0600] "GET /springmvcmaven/images/backgrounds/running.jpg HTTP/1.1" 200 152503 http-bio-8080-exec-4 107
+0:0:0:0:0:0:0:1 - - [17/Dec/2019:13:25:42 -0600] "GET /springmvcmaven/images/backgrounds/cycling.jpg HTTP/1.1" 200 277290 http-bio-8080-exec-9 106
+0:0:0:0:0:0:0:1 - - [17/Dec/2019:13:25:42 -0600] "GET /springmvcmaven/images/backgrounds/discthrower.jpg HTTP/1.1" 200 154239 http-bio-8080-exec-8 108
+0:0:0:0:0:0:0:1 - - [17/Dec/2019:13:25:43 -0600] "GET /springmvcmaven/images/backgrounds/soccer.jpg HTTP/1.1" 200 86343 http-bio-8080-exec-3 187
